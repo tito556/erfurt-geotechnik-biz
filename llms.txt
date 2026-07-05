@@ -1,0 +1,51 @@
+# Geotechnik — Erfurt
+
+> Geotechnical engineering services in Erfurt, Deutschland.
+
+## Services
+- [Anker](https://erfurt.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://erfurt.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://erfurt.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://erfurt.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://erfurt.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://erfurt.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://erfurt.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://erfurt.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://erfurt.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://erfurt.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://erfurt.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://erfurt.geotechnik.biz/fundamente/)
+- [Grundungen](https://erfurt.geotechnik.biz/grundungen/)
+- [Hange](https://erfurt.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://erfurt.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://erfurt.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://erfurt.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://erfurt.geotechnik.biz/labor/)
+- [Labor In Situ](https://erfurt.geotechnik.biz/labor-in-situ/)
+- [Masw](https://erfurt.geotechnik.biz/masw/)
+- [Pfahle](https://erfurt.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://erfurt.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://erfurt.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://erfurt.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://erfurt.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://erfurt.geotechnik.biz/schurfgruben/)
+- [Seismik](https://erfurt.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://erfurt.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://erfurt.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://erfurt.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://erfurt.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://erfurt.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://erfurt.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://erfurt.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://erfurt.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://erfurt.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://erfurt.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://erfurt.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://erfurt.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://erfurt.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Erfurt, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
